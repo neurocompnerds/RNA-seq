@@ -1,1 +1,1 @@
-# Some helpful documents for RNA-seq
+# Some helpful scripts and documents for RNA-seq
